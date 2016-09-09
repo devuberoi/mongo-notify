@@ -1,7 +1,7 @@
 {
-  "name": "socialcops",
+  "name": "mongo-notify",
   "version": "0.0.1",
-  "description": "",
+  "description": "A random real-time notification project to monitor changes in mongodb",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

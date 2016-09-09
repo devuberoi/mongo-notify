@@ -1,0 +1,16 @@
+{
+  "name": "socialcops",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dev Uberoi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "hogan": "^1.0.2",
+    "mongojs": "^2.4.0"
+  }
+}
